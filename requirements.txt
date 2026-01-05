@@ -1,9 +1,0 @@
-openpyxl
-pandas
-numpy
-selenium
-asyncio
-streamlit
-datetime
-typing
-#os
